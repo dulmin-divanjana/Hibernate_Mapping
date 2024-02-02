@@ -7,7 +7,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 public class Main {
-    Laptop laptop=new Laptop()
+    Laptop laptop=new Laptop();
 
     Student student=new Student();
 
